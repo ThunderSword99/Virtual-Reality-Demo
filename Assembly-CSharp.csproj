@@ -56,10 +56,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Ceiling.cs" />
-     <None Include="Assets\house\Readme.txt" />
-     <None Include="Assets\House 2\Readme.txt" />
-     <None Include="Assets\house\You Must See!.txt" />
-     <None Include="Assets\house\Readme!.txt" />
+     <None Include="Assets\House\Readme.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>F:/Virtual Reality Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
