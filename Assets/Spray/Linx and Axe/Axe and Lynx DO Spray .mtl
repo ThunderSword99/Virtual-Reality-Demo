@@ -1,0 +1,24 @@
+# Blender MTL File: 'Axe and Lynx DO Spray .blend'
+# Material Count: 2
+
+newmtl Lynx
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.107143 0.107143 0.107143
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Stifle Antor\Downloads\Linx and Axe\Textures\Lynx Fever.jpg
+
+newmtl Material.020
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.178571 0.178571 0.178571
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Stifle Antor\Downloads\Linx and Axe\Textures\s-l1000.jpg
