@@ -1,0 +1,11 @@
+Name: wasserkraft
+Version: 2012
+Preview: No
+Units: Millimeters
+Dimension: 301.39 x 203.72 x 1380.53
+Polys: 129 636
+XForm: Yes
+Box Trick: Yes
+Model Parts: 9
+Render: Corona
+Formats: 3Ds Max 2012, OBJ, FBX, 3DS

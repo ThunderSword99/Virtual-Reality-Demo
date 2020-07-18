@@ -59,6 +59,7 @@
      <None Include="Assets\House\Readme.txt" />
      <None Include="Assets\Light_01\eb_sconce_light_01\READ_ME.txt" />
      <None Include="Assets\Spray\Linx and Axe\Reed It.txt" />
+     <None Include="Assets\Rain_shower\info.txt" />
      <None Include="Assets\Lamp\Notes.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>F:/Virtual Reality Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
