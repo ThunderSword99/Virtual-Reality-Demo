@@ -56,6 +56,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Ceiling.cs" />
+     <Compile Include="Assets\Scripts\DoorHinge.cs" />
+     <Compile Include="Assets\Scripts\FreeCam.cs" />
+     <Compile Include="Assets\Scripts\RaycastHitObject.cs" />
+     <Compile Include="Assets\Scripts\Switcher.cs" />
      <None Include="Assets\House\Readme.txt" />
      <None Include="Assets\Light_01\eb_sconce_light_01\READ_ME.txt" />
      <None Include="Assets\Spray\Linx and Axe\Reed It.txt" />
