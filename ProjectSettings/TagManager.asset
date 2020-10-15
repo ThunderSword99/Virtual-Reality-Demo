@@ -9,6 +9,9 @@ TagManager:
   - Switcher
   - Light
   - Door
+  - Drawer
+  - MusicBox
+  - DoorGarage
   layers:
   - Default
   - TransparentFX

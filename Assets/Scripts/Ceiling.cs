@@ -39,6 +39,14 @@ public class Ceiling : MonoBehaviour
 
     public void TurnOnOff()
     {
+        if (!isTurnOn)
+        {
+            this.GetComponent<AudioSource>().Play();
+        }
+        else
+        {
+            this.GetComponent<AudioSource>().Stop();
+        }
         isTurnOn = !isTurnOn;
     }
 }

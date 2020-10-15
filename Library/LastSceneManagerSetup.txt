@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

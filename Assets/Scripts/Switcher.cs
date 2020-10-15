@@ -5,4 +5,5 @@ using UnityEngine;
 public class Switcher : MonoBehaviour
 {
     public GameObject thing;
+
 }
